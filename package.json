@@ -1,0 +1,19 @@
+{
+  "name": "pwa-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oirase/pwa-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oirase/pwa-sample/issues"
+  },
+  "homepage": "https://github.com/oirase/pwa-sample#readme"
+}
