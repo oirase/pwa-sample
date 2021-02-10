@@ -1,8 +1,6 @@
 #!/usr/bin/env node
 var express = require('express')
 var app = express()
-
-var debug = require('debug')('express-locallibrary-tutorial:server');
 var http = require('http');
 
 /**
